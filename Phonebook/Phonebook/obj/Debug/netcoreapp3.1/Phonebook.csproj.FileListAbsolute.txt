@@ -1,0 +1,11 @@
+E:\BSCS-2\Visual Studio Projects\Phonebook\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.exe
+E:\BSCS-2\Visual Studio Projects\Phonebook\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.deps.json
+E:\BSCS-2\Visual Studio Projects\Phonebook\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.runtimeconfig.json
+E:\BSCS-2\Visual Studio Projects\Phonebook\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.runtimeconfig.dev.json
+E:\BSCS-2\Visual Studio Projects\Phonebook\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.dll
+E:\BSCS-2\Visual Studio Projects\Phonebook\Phonebook\bin\Debug\netcoreapp3.1\Phonebook.pdb
+E:\BSCS-2\Visual Studio Projects\Phonebook\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.csprojAssemblyReference.cache
+E:\BSCS-2\Visual Studio Projects\Phonebook\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.AssemblyInfoInputs.cache
+E:\BSCS-2\Visual Studio Projects\Phonebook\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.AssemblyInfo.cs
+E:\BSCS-2\Visual Studio Projects\Phonebook\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.dll
+E:\BSCS-2\Visual Studio Projects\Phonebook\Phonebook\obj\Debug\netcoreapp3.1\Phonebook.pdb
